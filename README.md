@@ -1,5 +1,2 @@
-# Terraform Tutorial
-
-This repository contains Terraform example used to explain concepts in Terraform tutorial post.
-
-Test for Jenkins triggers
+a fully automated CICD pipeline deployment from balaraju golla
+second attempt hellow balaraju golla
