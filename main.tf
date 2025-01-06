@@ -6,4 +6,3 @@ resource "aws_instance" "my_vm" {
    Name = var.name_tag,
  }
 }
-
