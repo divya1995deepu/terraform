@@ -1,17 +1,9 @@
-variable "ami" {
-   type        = string
-   description = "Ubuntu AMI ID in N. Virginia Region"
-   default     = "ami-007868005aea67c54"
-}
-
-variable "instance_type" {
-   type        = string
-   description = "Instance type"
-   default     = "t2.micro"
-}
-
-variable "name_tag" {
-   type        = string
-   description = "Name of the EC2 instance"
-   default     = "My-EC2-Instance"
-}
+variable "access_key" {
+  default = "AKIAUZPNLLM6M4CUSMWU"
+  }
+variable "secret_key" {
+  default = "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"
+  }
+variable "region" {
+  default = "us-east-1"
+  }
